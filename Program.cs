@@ -14,6 +14,8 @@ namespace MyFirstCoreWebApp
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            //pakomentavau, kad kažkas pasikeistu.
+            //dar kazkassdsss
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
